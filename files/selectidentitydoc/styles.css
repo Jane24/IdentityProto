@@ -12,21 +12,21 @@
   position:absolute;
   z-index:0;
 }
-#u86_img {
+#u67_img {
   position:absolute;
   left:0px;
   top:0px;
   width:869px;
   height:726px;
 }
-#u86 {
+#u67 {
   position:absolute;
   left:0px;
   top:0px;
   width:869px;
   height:726px;
 }
-#u87 {
+#u68 {
   position:absolute;
   left:4px;
   top:355px;
@@ -34,7 +34,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u88 {
+#u69 {
   position:absolute;
   left:46px;
   top:85px;
@@ -43,7 +43,7 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u89 {
+#u70 {
   position:absolute;
   left:40px;
   top:454px;
@@ -52,14 +52,14 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u90 {
+#u71 {
   position:absolute;
   left:64px;
   top:325px;
   width:222px;
   height:16px;
 }
-#u91 {
+#u72 {
   position:absolute;
   left:16px;
   top:0px;
@@ -67,19 +67,19 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u90_input {
+#u71_input {
   position:absolute;
   left:-3px;
   top:-2px;
 }
-#u92 {
+#u73 {
   position:absolute;
   left:64px;
   top:282px;
   width:100px;
   height:16px;
 }
-#u93 {
+#u74 {
   position:absolute;
   left:16px;
   top:0px;
@@ -87,19 +87,19 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u92_input {
+#u73_input {
   position:absolute;
   left:-3px;
   top:-2px;
 }
-#u94 {
+#u75 {
   position:absolute;
   left:64px;
   top:412px;
   width:100px;
   height:16px;
 }
-#u95 {
+#u76 {
   position:absolute;
   left:16px;
   top:0px;
@@ -107,19 +107,19 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u94_input {
+#u75_input {
   position:absolute;
   left:-3px;
   top:-2px;
 }
-#u96 {
+#u77 {
   position:absolute;
   left:64px;
   top:369px;
   width:100px;
   height:16px;
 }
-#u97 {
+#u78 {
   position:absolute;
   left:16px;
   top:0px;
@@ -127,12 +127,12 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u96_input {
+#u77_input {
   position:absolute;
   left:-3px;
   top:-2px;
 }
-#u98 {
+#u79 {
   position:absolute;
   left:52px;
   top:312px;
