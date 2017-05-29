@@ -12,21 +12,21 @@
   position:absolute;
   z-index:0;
 }
-#u47_img {
+#u63_img {
   position:absolute;
   left:0px;
   top:0px;
   width:964px;
   height:800px;
 }
-#u47 {
+#u63 {
   position:absolute;
   left:0px;
   top:0px;
   width:964px;
   height:800px;
 }
-#u48 {
+#u64 {
   position:absolute;
   left:4px;
   top:392px;
@@ -34,7 +34,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u49 {
+#u65 {
   position:absolute;
   left:20px;
   top:409px;
@@ -43,16 +43,7 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u50 {
-  position:absolute;
-  left:20px;
-  top:500px;
-  width:296px;
-  height:60px;
-  overflow:hidden;
-  background-image:url('../../resources/images/transparent.gif');
-}
-#u51 {
+#u66 {
   position:absolute;
   left:20px;
   top:100px;
@@ -61,14 +52,14 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u52 {
+#u67 {
   position:absolute;
   left:28px;
   top:355px;
   width:108px;
   height:41px;
 }
-#u52_input {
+#u67_input {
   position:absolute;
   left:0px;
   top:0px;
@@ -81,4 +72,78 @@
   text-decoration:none;
   color:#000000;
   text-align:left;
+}
+#u68_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  height:59px;
+  background:inherit;
+  background-color:rgba(242, 242, 242, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u68 {
+  position:absolute;
+  left:310px;
+  top:209px;
+  width:300px;
+  height:59px;
+}
+#u69 {
+  position:absolute;
+  left:4px;
+  top:22px;
+  width:294px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u70_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:48px;
+  height:22px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Helvetica-Bold', 'Helvetica Bold', 'Helvetica';
+  font-weight:700;
+  font-style:normal;
+  font-size:18px;
+}
+#u70 {
+  position:absolute;
+  left:317px;
+  top:230px;
+  width:48px;
+  height:22px;
+  font-family:'Helvetica-Bold', 'Helvetica Bold', 'Helvetica';
+  font-weight:700;
+  font-style:normal;
+  font-size:18px;
+}
+#u71 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:48px;
+  white-space:nowrap;
+}
+#u72 {
+  position:absolute;
+  left:20px;
+  top:503px;
+  width:293px;
+  height:44px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
 }
